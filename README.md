@@ -4,7 +4,9 @@ Coursework for PHYS 481 "Computational Physics II" - Fall 2024
 Grades:
 
 Assignment 1: 42/44 = 95.45%
+
     Comments: - Long Answer Q2: **Numerical error in forward difference**, 3/4 pt: "_Answer is only partially correct_"
+    
               - Long Answer Q3: Non-spherical Earth, 3/4pt: "_Answer is only partially correct_"
 
 Assignment 2: 20/20 = 100%
