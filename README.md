@@ -5,9 +5,9 @@ Grades:
 
 Assignment 1: 42/44 = 95.45%
 
-    Comments: - Long Answer Q2: **Numerical error in forward difference**, 3/4 pt: "_Answer is only partially correct_"
+     - Long Answer Q2: Numerical error in forward difference, 3/4 pt: "Answer is only partially correct"
     
-              - Long Answer Q3: Non-spherical Earth, 3/4pt: "_Answer is only partially correct_"
+     - Long Answer Q3: Non-spherical Earth, 3/4pt: "Answer is only partially correct"
 
 Assignment 2: 20/20 = 100%
 
